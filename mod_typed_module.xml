@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" client="site" method="upgrade">
-	<name>mod_typed_module</name>
+	<name>MOD_TYPED_MODULE</name>
 	<author>Thomas Winterling</author>
 	<creationDate>July 2020</creationDate>
 	<copyright>Copyright (C) 2005 - 2020 Open Source Matters. All rights reserved.</copyright>
