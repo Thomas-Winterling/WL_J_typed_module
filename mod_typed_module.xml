@@ -16,12 +16,7 @@
 		<folder>tmpl</folder>
 		<folder>media</folder>
 	</files>
-	<languages>
-		<language tag="en-GB">en-GB.mod_typed_module.ini</language>
-		<language tag="en-GB">en-GB.mod_typed_module.sys.ini</language>
-		<language tag="de-DE">de-DE.mod_typed_module.ini</language>
-		<language tag="de-DE">de-DE.mod_typed_module.sys.ini</language>
-	</languages>
+
 	<help key="JHELP_EXTENSIONS_MODULE_MANAGER_LATEST_NEWS" />
 	<config>
 		<fields name="params">
@@ -212,4 +207,16 @@
             </fieldset>    
         </fields>
 	</config>
+
+        <languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.mod_typed_module.ini</language>
+		<language tag="en-GB">en-GB/en-GB.mod_typed_module.sys.ini</language>
+		<language tag="de-DE">de-DE/de-DE.mod_typed_module.ini</language>
+		<language tag="de-DE">de-DE/de-DE.mod_typed_module.sys.ini</language>
+	</languages>
+
+        <media destination="mod_typed_module" folder="media">
+                <folder>css</folder>
+                <folder>js</folder>
+        </media> 
 </extension>
