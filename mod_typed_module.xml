@@ -8,7 +8,7 @@
 	<authorEmail>info@winterling-labs.com</authorEmail>
 	<authorUrl>www.winterling-labs.com</authorUrl>
 	<version>3.0.0</version>
-	<description>MOD_LATEST_NEWS_XML_DESCRIPTION</description>
+	<description>MOD_TYPED_MODULE_XML_DESCRIPTION</description>
 	<namespace path="src">Joomla\Module\TypedModule</namespace>
 	<files>
 		<filename module="mod_typed_module">mod_typed_module.php</filename>
